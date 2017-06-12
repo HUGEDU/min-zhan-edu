@@ -1,2 +1,2 @@
-# study
+# edu-min-zhan
 front html
